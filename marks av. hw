@@ -1,0 +1,30 @@
+print("Calculating average marks of 5 subjects")
+
+mark1 = 96
+mark2 = 56
+mark3 = 88
+mark4 = 99
+mark5 = 18
+
+sum = mark1+mark2+mark3+mark4+mark5
+print("The sum of given mark is:", sum)
+
+average = sum/5
+print("The average of given mark is:", average)
+
+print("Inputting the marks")
+
+print("Enter Marks Obtained in 5 subjects:")
+math = int(input("maths: "))
+english = int(input("english: "))
+science = int(input("science: "))
+nepali = int(input("nepali: "))
+arts = int(input("arts: "))
+
+sum = math+english+science+nepali+atrs
+print("sum of marks of given subjects =",sum)
+
+perc = (sum/500)*100
+print(end = "Percentage Marks=")
+print(perc)
+
